@@ -21,7 +21,8 @@
 			"Name": "DatasmithCADImporter",
 			"Enabled": true,
 			"SupportedTargetPlatforms": [
-				"Win64"
+				"Win64",
+				"Linux"
 			]
 		},
 		{
@@ -79,6 +80,14 @@
 			"Name": "DLSS",
 			"Enabled": true,
 			"MarketplaceURL": "https://www.unrealengine.com/marketplace/en-US/product/nvidia-dlss"
+		},
+		{
+			"Name": "Anima4DUnrealPlugin",
+			"Enabled": true
+		},
+		{
+			"Name": "UEAnimaLoader",
+			"Enabled": true
 		}
 	]
 }
